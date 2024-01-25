@@ -1,3 +1,5 @@
-# my first webpage, as part of the lesson for Git from "Learn enough Git to be dangerous" ; I have already created a repository and worked with add, commit, log, status, diff and push I believe.
+# Sample document
 
-although I pushed through freecodecamp HTML and CSS, I have absolutly no skills whatsoever. I will be repeating it. *so here we gok here is the *README*
+This is a sample document written for the tutorial [*Learn Enough Text Editor to Be Dangerous*](https://www.learnenough.com/text-editor) by [Michael Hartl](https://www.michaelhartl.com/). It's written in [Markdown](https://daringfireball.net/projects/markdown/), a plain-text format that's both easy to read and easy to convert to HTML. In later tutorials, we'll use Markdown for making README files designed to give a quick overview of a project's contents.
+For more information on Git, see the
+[official Git documentation](https://git-scm.com/)
